@@ -6,12 +6,38 @@ header h1 {
 
 .container form{
     width: 70%;
+    font-size: 20px;
 }
 
 .container form label{
-    font-size: 1.2rem;
+    font-size: 0.9rem;
+}
+
+.container form button{
+    cursor: pointer;
+    margin-top: 3%;
+    border:0;
+    outline:0;
+    padding: 0.8rem;
+    border-radius:0.2rem;
+    font-size: 1.1rem;
+ 
 }
 
 .container .result-box {
     width: 70%;
+    font-size: 10px;
 }    
+
+.container .result-box h2 {
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.container .result-box span {
+    font-size:0.8rem ;
+}
+
+footer p {
+    font-size: 0.8rem;
+}
