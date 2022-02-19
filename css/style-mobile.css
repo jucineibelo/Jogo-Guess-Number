@@ -1,0 +1,17 @@
+header h1 {
+    
+    color: var(--blue);
+    font-size: 1.9rem;
+}
+
+.container form{
+    width: 70%;
+}
+
+.container form label{
+    font-size: 1.2rem;
+}
+
+.container .result-box {
+    width: 70%;
+}    
